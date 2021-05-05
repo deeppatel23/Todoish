@@ -18,5 +18,5 @@ A simple ToDo app where you can add categories and items to individual categorie
 <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.37%20PM.png" height=400>
 <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.53%20PM.png" height=400>
 <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.02.14%20PM.png" height=400>
-<img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/appstore.png" height=400>
+<img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/appstore.png" height=200 width=200>
 </div>
