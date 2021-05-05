@@ -17,7 +17,11 @@ A simple ToDo app where you can add categories and items to individual categorie
   </div>
   <li>Data securely stored in iphone</li>
   <div>
-    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/appstore.png" height=200 width=200>
+    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/appstore.png" height=100 width=100>
+  </div>
+  <li>Automatic Gradient</li>
+  <div>
+    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.34%20PM.png" height=200 width=200>
   </div>
 </ul>
 
