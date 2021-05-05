@@ -12,8 +12,8 @@ A simple ToDo app where you can add categories and items to individual categorie
   <li>Add/Search/Delete Items in a particular categories</li>
   <div>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.05%20PM.png" height=400>
-    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.34%20PM.png" height=400>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.37%20PM.png" height=400>
+    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.53%20PM.png" height=400>
   </div>
   <li>Data securely stored in iphone</li>
   <div>
