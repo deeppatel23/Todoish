@@ -14,7 +14,7 @@ A simple ToDo app where you can add categories and items to individual categorie
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.05%20PM.png" height=400>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.53%20PM.png" height=400>
   </div>
-  <li>Search/Mark Done Items in a particular categories</li>
+  <li>Search/Mark done✅ items in a particular categories</li>
   <div>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.37%20PM.png" height=400>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.59.33%20PM.png" height=400>
@@ -23,7 +23,7 @@ A simple ToDo app where you can add categories and items to individual categorie
   <div>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/appstore.png" height=100 width=100>
   </div>
-  <li>Automatic Gradient</li>
+  <li>Automatic lighter/darker Gradient</li>
   <div>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.34%20PM.png" height=400>
   </div>
