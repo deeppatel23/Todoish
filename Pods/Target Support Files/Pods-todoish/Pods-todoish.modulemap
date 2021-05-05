@@ -1,0 +1,6 @@
+framework module Pods_todoish {
+  umbrella header "Pods-todoish-umbrella.h"
+
+  export *
+  module * { export * }
+}
