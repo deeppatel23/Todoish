@@ -9,11 +9,15 @@ A simple ToDo app where you can add categories and items to individual categorie
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.02.14%20PM.png" height=400>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.54.09%20PM.png" height=400>
   </div>
-  <li>Add/Search/Delete Items in a particular categories</li>
+  <li>Add/Delete Items in a particular categories</li>
   <div>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%209.55.05%20PM.png" height=400>
-    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.37%20PM.png" height=400>
     <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.53%20PM.png" height=400>
+  </div>
+  <li>Search/Mark Done Items in a particular categories</li>
+  <div>
+    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.01.37%20PM.png" height=400>
+    <img src="https://github.com/deeppatel23/Todoish/blob/main/Screenshots/Screenshot%202021-05-05%20at%2010.59.33%20PM.png" height=400>
   </div>
   <li>Data stored persistently and securely on device</li>
   <div>
