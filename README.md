@@ -1,5 +1,5 @@
 # Todoish
-A simple ToDo app where you can add categories and items to individual categories. The app creates a local database so that you can use the app offline.
+A simple ToDo app where you can add categories and items to individual categories. The app creates a local database with <b>CORE Data</b> so that you can use the app offline.
 
 <h3>Features</h3>
 <ul>
